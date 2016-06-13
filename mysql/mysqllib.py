@@ -1,9 +1,9 @@
 #!/usr/bin/python
 ###############################################
-#  Description: MySQL  Python interface.      #
-#  Author:      laughing                      #
-#  Mail:        305835227@qq.com              #
-#  Require:     Python env and  MySQLdb       #
+#  Description: MySQL  Python interface.     
+#  Author:      laughing                     
+#  Mail:        305835227@qq.com            
+#  Require:     Python env and  MySQLdb       
 ###############################################
 
 import MySQLdb
